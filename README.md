@@ -7,15 +7,17 @@ Load Android/iOS DB files from major messengers like KakaoTalk, Telegram, and Di
 
 ## Supported Messengers
 
+Last verified versions:
+
 | Messenger | Android | iOS |
 |---|---|---|
-| KakaoTalk | ✅ | ✅ |
-| Telegram | ✅ | ✅ |
-| Discord | ✅ | ✅ |
-| Facebook Messenger | ✅ | ✅ |
-| WhatsApp | ✅ | ✅ |
-| Instagram | ✅ | ✅ |
-| Jandi | ✅ | ✅ |
+| KakaoTalk | 25.9.0 | 25.8.3 |
+| Discord | 3.1.0 | 309.1 |
+| Telegram | 12.3.1 | 12.3.0 |
+| Facebook Messenger | 535.0.0 | 537.10 |
+| WhatsApp | 2.23.12.75 | 26.12.78 |
+| Instagram | 409.0.0 | 410.0.0 |
+| Jandi | 2.52.24 | 2.52.29 |
 
 ---
 
