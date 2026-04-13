@@ -3,6 +3,8 @@
 A desktop GUI tool for forensic analysis of mobile messenger backup databases.  
 Load Android/iOS DB files from major messengers like KakaoTalk, Telegram, and Discord to visualize chat history, participants, date ranges, and more.
 
+![Screenshot](Screenshot.png)
+
 ---
 
 ## Supported Messengers
@@ -11,13 +13,13 @@ Last verified versions:
 
 | Messenger | Android | iOS |
 |---|---|---|
-| KakaoTalk | 25.9.0 | 25.8.3 |
-| Discord | 3.1.0 | 309.1 |
-| Telegram | 12.3.1 | 12.3.0 |
-| Facebook Messenger | 535.0.0 | 537.10 |
-| WhatsApp | 2.23.12.75 | 26.12.78 |
-| Instagram | 409.0.0 | 410.0.0 |
-| Jandi | 2.52.24 | 2.52.29 |
+| KakaoTalk | 25.9.0 (2025-12-31) | 25.8.3 (2025-10-02) |
+| Discord | 3.1.0 (2025-02-14) | 309.1 (2025-12-17) |
+| Telegram | 12.3.1 (2013-09-06) | 12.3.0 (2026-01-03) |
+| Facebook Messenger | 535.0.0 (2025-12-04) | 537.10 (2025-12-18) |
+| WhatsApp | 2.23.12.75 (2026-03-28) | 26.12.78 (2026-04-04) |
+| Instagram | 409.0.0 (2025-12-09) | 410.0.0 (2025-12-16) |
+| Jandi | 2.52.24 (2014-08-28) | 2.52.29 (2014-08-14) |
 
 ---
 
